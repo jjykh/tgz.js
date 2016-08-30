@@ -1,0 +1,27 @@
+{
+  "name": "tgz.js",
+  "version": "1.0.7",
+  "description": "Pure javascript tarball tools for Node.js",
+  "main": "index.js",
+  "keywords": [
+    "tarball"
+  ],
+  "author": "Alan Hoffmeister <alanhoffmeister@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fstream": "^1.0.8",
+    "tar": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjykh/tgz.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jjykh/tgz.js/issues"
+  },
+  "homepage": "https://github.com/jjykh/tgz.js#readme"
+}
